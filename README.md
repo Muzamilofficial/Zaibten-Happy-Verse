@@ -67,6 +67,8 @@ Created with love by **Zaibten** 💖.
 # 📸 Some Screenshots of the Project 🖼️✨
 
 
+![image](https://github.com/user-attachments/assets/0139b0a0-7d18-4c8d-9bb9-8e5fcf82a70e)
+![image](https://github.com/user-attachments/assets/eee8fb5a-83bf-4e23-b186-5cc8e5808e46)
 
 
 
