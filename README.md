@@ -1,21 +1,21 @@
-# Zaibten Happy Verse 💌✨
-A heartfelt and interactive webpage to send love messages to someone special! 💖 This project is built with **Node.js** and deployed on **Vercel** for seamless accessibility. Make your loved ones feel truly cherished with your personalized messages. 🌟
+# Zaibten Friendship Verse 💌✨
+A heartfelt and interactive webpage to send friendship messages to someone special! 🤗 This project is built with **Node.js** and deployed on **Vercel** for seamless accessibility. Make your friends feel truly cherished with your personalized messages. 🌟
 
-🚀 **Live Demo**: [Zaibten Happy Verse](https://mahamuzi.vercel.app/)  
+🚀 **Live Demo**: [Zaibten Friendship Verse](https://mahamuzi.vercel.app/)  
 
 ---
 
 ## 🌈 Features
 - **Dynamic Customization**: Easily personalize the webpage using the `customize.json` file. 🎨  
 - **Responsive Design**: Beautifully crafted for all devices – mobile, tablet, or desktop. 📱💻  
-- **Interactive Animations**: Bring your love message to life with delightful animations. 💃  
+- **Interactive Animations**: Bring your friendship message to life with delightful animations. 💃  
 - **Deploy in Minutes**: Quick setup and deployment with **Vercel**. 🚀  
 
 ---
 
 ## 📂 Project Structure
 ```plaintext
-📦 Zaibten Happy Verse
+📦 Zaibten Friendship Verse
 ├── public
 │   ├── images        # Store your custom images here
 ├── src
@@ -55,9 +55,9 @@ Modify the `customize.json` file for an easy and quick way to personalize your p
 
 ```json
 {
-  "title": "A Special Message for My Love ❤️",
+  "title": "A Special Message for My Friend 🤗",
   "image": "https://your-image-url.com",
-  "message": "You are my sunshine on a cloudy day 🌞. You light up my life in every way! 💖"
+  "message": "You are the best friend I could ask for! 🌟 Thank you for being amazing in every way! 😊"
 }
 ```
 
@@ -65,10 +65,11 @@ Modify the `customize.json` file for an easy and quick way to personalize your p
 Created with love by **Zaibten** 💖.
 
 # 📸 Some Screenshots of the Project 🖼️✨
+![image](https://github.com/user-attachments/assets/e93e7584-2a96-463c-9503-51e96ee89804)
+![image](https://github.com/user-attachments/assets/eb6750b2-0645-4820-a072-1f11b1e545a1)
+![image](https://github.com/user-attachments/assets/d12eaa94-a7fc-45c7-a277-94627485b012)
+![image](https://github.com/user-attachments/assets/61f9616d-0f1c-47cb-a4f1-a428aee56185)
 
-
-![image](https://github.com/user-attachments/assets/0139b0a0-7d18-4c8d-9bb9-8e5fcf82a70e)
-![image](https://github.com/user-attachments/assets/eee8fb5a-83bf-4e23-b186-5cc8e5808e46)
 
 
 
